@@ -168,7 +168,6 @@
         leftP.draw();
       }
     }
-    //manual controls
     /*
     if(evt.keyCode == upRightKey){
       if(rightP.getY() >= 0){
